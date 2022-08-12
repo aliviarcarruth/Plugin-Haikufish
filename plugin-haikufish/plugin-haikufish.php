@@ -13,7 +13,7 @@
  * @package           Plugin_Haikufish
  *
  * @wordpress-plugin
- * Plugin Name:       Plugin_Haikufish
+ * Plugin Name:       Plugin Haikufish
  * Plugin URI:        https://aliviarcarruth.github.io/
  * Description:       A plugin to contain logic for Haikufish.
  * Version:           1.0.0
